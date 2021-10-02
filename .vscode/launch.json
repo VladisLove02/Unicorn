@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open startPage.html",
-            "file": "d:\\Documents\\Unicorn\\startPage.html"
+            "file": "E:\\Project\\Unicorn\\startPage.html"
         }
     ]
 }
